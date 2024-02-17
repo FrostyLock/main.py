@@ -1,6 +1,5 @@
-Sure, here's the calculator code in Python without comments and in English:
 
-```python
+python
 def add(x, y):
     return x + y
 
