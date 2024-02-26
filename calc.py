@@ -1,6 +1,6 @@
 
 python
-def add(x, y):
+def add(x, y, z):
     return x + y + z
 
 def subtract(x, y):
