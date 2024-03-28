@@ -1,1 +1,1 @@
-# calc/time/profit
+# calc/time/profit/luck
