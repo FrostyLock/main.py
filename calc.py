@@ -20,7 +20,7 @@ print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
 
-choice = input("Enter choice (1/2/3/4/5): ")
+choice = input("Enter choice (1/2/3/4/): ")
 
 numQ = float(input("Enter first number: "))
 numW = float(input("Enter second number: "))
